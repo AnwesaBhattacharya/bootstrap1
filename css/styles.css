@@ -44,3 +44,14 @@ body{
      background-color: #512DA8;
 }
 
+.reserve-color{
+	background-color:#ffd11a;
+}
+
+input[type=radio],
+input.radio {
+      float: left;
+      clear: none;
+      width:15px;
+      margin: 2px 0 0 2px;
+    }
