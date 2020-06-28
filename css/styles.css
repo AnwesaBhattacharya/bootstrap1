@@ -77,3 +77,17 @@ input.radio {
     left: 0;
     min-height: 300px;
 }
+
+.section-btn-green.active {
+    background-color: green !important;
+    color: #ffff;
+}
+
+.section-btn-red.active {
+    background-color: red !important;
+    color: #ffff;
+}
+
+.cancel-button{
+	background-color: grey;
+}
